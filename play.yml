@@ -1,4 +1,4 @@
-me: install package
+- name: install package
     yum:
      name: httpd
      state: present 
